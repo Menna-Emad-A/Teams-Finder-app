@@ -78,7 +78,7 @@ Please ensure your code follows the project's coding standards and includes appr
 
 If you have any questions, suggestions, or feedback, feel free to reach out:
 
-- **Menna Emad** - [GitHub](https://github.com/Menna-Emad-A) | [Email](mailto:menna.emad@example.com)
+- **Menna Emad** - [GitHub](https://github.com/Menna-Emad-A) | [Email](mailto:mennaegypt1@gmail.com)
 
 ---
 
